@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "first_name": "anakin",
+    "last_name": "skywalker",
+    "email": "vader@empire.com",
+    "gender": "sith",
+    "ip_address": "4.154.199.103",
+    "country_code": "DS"
+  },
+  {
+    "id": 2,
+    "first_name": "mickey",
+    "last_name": "mouse",
+    "email": "mickey.mouse@mm.com",
+    "gender": "mouse",
+    "ip_address": "219.233.234.105",
+    "country_code": "US"
+  },
+  {
+    "id": 3,
+    "first_name": "urho",
+    "last_name": "kekkonen",
+    "email": "uk@suomi.fi",
+    "gender": "male",
+    "ip_address": "34.199.129.255",
+    "country_code": "FI"
+  },
+  {
+    "id": 4,
+    "first_name": "lucia",
+    "last_name": "cruz",
+    "email": "lucia.cruz@email.com",
+    "gender": "female",
+    "ip_address": "219.233.234.105",
+    "country_code": "MX"
+  },
+  {
+    "id": 5,
+    "first_name": "polly",
+    "last_name": "gray",
+    "email": "polly.gray@shelbycompany.ltd",
+    "gender": "female",
+    "ip_address": "27.59.2.69",
+    "country_code": "UK"
+  }
+]
