@@ -2,7 +2,7 @@
 
 All the publicly shared projects will be stored here. Additionally, a short description of each project.
 
-## Python API Exercise
+## Python API Exercise [WIP]
 
 * Create SQL database
 * FastAPI endpoint
