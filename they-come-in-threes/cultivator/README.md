@@ -4,7 +4,7 @@
 
 **Create and run the container**
 ```bash
-docker run -d --name cultivator-container -p 5435:5435 -e POSTGRES_PASSWORD=000000 postgres
+docker run -d --name cultivator-container -p 5432:5432 -e POSTGRES_PASSWORD=000000 postgres
 ```
 
 **Check the container**
@@ -19,7 +19,7 @@ docker exec -it cultivator-container bash
 
 **Create and run the container**
 ```bash
-docker run -d --name cultivator-container -p 5435:5435 -e POSTGRES_PASSWORD=000000 postgres
+docker run -d --name cultivator-container -p 5432:5432 -e POSTGRES_PASSWORD=000000 postgres
 ```
 
 **Build docker image**
